@@ -1,12 +1,12 @@
 {
-    "name": "dev-techguy/laravel-multiple-guards",
+    "name": "shiftechafrica/laravel-multiple-guards",
     "description": "This library helps one to handle multiple guards. Read through the read me.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "vincent-ososi",
-            "email": "vincent@shiftech.co.ke"
+            "name": "shiftech africa",
+            "email": "bugs@shiftech.co.ke"
         }
     ],
     "keywords": [
@@ -17,7 +17,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "illuminate/support": "^5.7|^5.8|^6.0|^7.0|^8.0|^9.0|^10"
+        "illuminate/support": "^5.7|^5.8|^6.0|^7.0|^8.0|^9.0|^10|^11"
     },
     "autoload": {
         "psr-4": {
