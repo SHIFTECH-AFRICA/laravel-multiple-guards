@@ -2,20 +2,20 @@
 
 <p align="center">
   <b>Big Things, Start Small</b><br>
-  <a href="https://github.com/dev-techguy/laravel-multiple-guards/issues">
-  <img src="https://img.shields.io/github/issues/dev-techguy/laravel-multiple-guards.svg">
+  <a href="https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/issues">
+  <img src="https://img.shields.io/github/issues/shiftechafrica/laravel-multiple-guards.svg">
   </a>
-  <a href="https://github.com/dev-techguy/laravel-multiple-guards/network/members">
-  <img src="https://img.shields.io/github/forks/dev-techguy/laravel-multiple-guards.svg">
+  <a href="https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/network/members">
+  <img src="https://img.shields.io/github/forks/shiftechafrica/laravel-multiple-guards.svg">
   </a>
-  <a href="https://github.com/dev-techguy/laravel-multiple-guards/stargazers">
-  <img src="https://img.shields.io/github/stars/dev-techguy/laravel-multiple-guards.svg">
+  <a href="https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/stargazers">
+  <img src="https://img.shields.io/github/stars/shiftechafrica/laravel-multiple-guards.svg">
   </a>
-  <a href="https://packagist.org/packages/dev-techguy/laravel-multiple-guards">
-  <img src="https://poser.pugx.org/dev-techguy/laravel-multiple-guards/v/stable">
+  <a href="https://packagist.org/packages/shiftechafrica/laravel-multiple-guards">
+  <img src="https://poser.pugx.org/shiftechafrica/laravel-multiple-guards/v/stable">
   </a>
-  <a href="https://packagist.org/packages/dev-techguy/laravel-multiple-guards">
-  <img src="https://poser.pugx.org/dev-techguy/laravel-multiple-guards/downloads">
+  <a href="https://packagist.org/packages/shiftechafrica/laravel-multiple-guards">
+  <img src="https://poser.pugx.org/shiftechafrica/laravel-multiple-guards/downloads">
   </a>
   <br><br>
   <img src="https://cdn.lynda.com/course/798496/798496-637313898890662753-16x9.jpg">
@@ -31,14 +31,14 @@ The recommended way to install laravel-multiple-guards is through
 
 ```bash
 # Install package via composer
-composer require dev-techguy/laravel-multiple-guards
+composer require shiftechafrica/laravel-multiple-guards
 ```
 
-Next, run the Composer command to install the latest stable version of *dev-techguy/laravel-multiple-guards*:
+Next, run the Composer command to install the latest stable version of *shiftechafrica/laravel-multiple-guards*:
 
 ```bash
 # Update package via composer
- composer update dev-techguy/laravel-multiple-guards --lock
+ composer update shiftechafrica/laravel-multiple-guards --lock
 ```
 
 After installing, the package will be auto discovered, But if need you may run:
@@ -122,12 +122,13 @@ class HomeController extends Controller
 
 | Version | Status     | Packagist           | Namespace    | Repo                |
 |---------|------------|---------------------|--------------|---------------------|
-| 1.x     | Latest     | `dev-techguy/laravel-multiple-guards` | `LaravelMultipleGuards` | [v1.1.6](https://github.com/dev-techguy/laravel-multiple-guards/releases/tag/v1.1.6)|
+| 1.x     | EOL     | `shiftechafrica/laravel-multiple-guards` | `LaravelMultipleGuards` | [v1.1.9](https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/releases/tag/v1.1.9)|
+| 2.x     | Latest     | `shiftechafrica/laravel-multiple-guards` | `LaravelMultipleGuards` | [v2.0.0](https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/releases/tag/v2.0.0)|
 
-[laravel-multiple-guards-repo]: https://github.com/dev-techguy/laravel-multiple-guards.git
+[laravel-multiple-guards-repo]: https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards.git
 
 ## Security Vulnerabilities
- For any security vulnerabilities, please email to [Vincent Ososi](mailto:vincent@shiftech.co.ke).
+ For any security vulnerabilities, please email to [Support](mailto:bugs@shiftech.co.ke).
  
 ## License
  This package is open-source, licensed under the [MIT License](https://opensource.org/licenses/MIT).
