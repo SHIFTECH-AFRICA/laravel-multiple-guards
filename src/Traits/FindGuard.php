@@ -115,11 +115,11 @@ trait FindGuard
             foreach ($array as $item) {
                 if (!in_array($item, $sliced)) {
                     if ($item !== 'web') {
-                        array_push($sliced, $item);
+                        $sliced[] = $item;
                     }
 
                     if ($arrayLength == 1) {
-                        array_push($sliced, 'web');
+                        $sliced[] = 'web';
                     }
                 }
                 $arrayLength--;

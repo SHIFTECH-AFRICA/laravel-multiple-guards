@@ -13,6 +13,7 @@
         "laravel",
         "guards",
         "authentication",
+        "livewire",
         "multiple"
     ],
     "minimum-stability": "stable",

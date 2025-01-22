@@ -1,15 +1,15 @@
-# <p align="center"><a href="https://v-ososi.site/" target="_blank"><img width="400" src="https://github.com/dev-techguy/TechGuy/blob/master/techguy.png"></a></p>
+# <p align="center"><a href="https://github.com/SHIFTECH-AFRICA" target="_blank"><img width="400" src="https://github.com/SHIFTECH-AFRICA/avatars/blob/main/Secure.png?raw=true"></a></p>
 
 <p align="center">
   <b>Big Things, Start Small</b><br>
   <a href="https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/issues">
-  <img src="https://img.shields.io/github/issues/shiftechafrica/laravel-multiple-guards.svg">
+  <img src="https://img.shields.io/github/issues/SHIFTECH-AFRICA/laravel-multiple-guards.svg">
   </a>
   <a href="https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/network/members">
-  <img src="https://img.shields.io/github/forks/shiftechafrica/laravel-multiple-guards.svg">
+  <img src="https://img.shields.io/github/forks/SHIFTECH-AFRICA/laravel-multiple-guards.svg">
   </a>
   <a href="https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/stargazers">
-  <img src="https://img.shields.io/github/stars/shiftechafrica/laravel-multiple-guards.svg">
+  <img src="https://img.shields.io/github/stars/SHIFTECH-AFRICA/laravel-multiple-guards.svg">
   </a>
   <a href="https://packagist.org/packages/shiftechafrica/laravel-multiple-guards">
   <img src="https://poser.pugx.org/shiftechafrica/laravel-multiple-guards/v/stable">
@@ -18,7 +18,7 @@
   <img src="https://poser.pugx.org/shiftechafrica/laravel-multiple-guards/downloads">
   </a>
   <br><br>
-  <img src="https://cdn.lynda.com/course/798496/798496-637313898890662753-16x9.jpg">
+  <img src="https://raw.githubusercontent.com/SHIFTECH-AFRICA/avatars/0d9c91fd61777ba4d79d7008e38729dc4ec410fd/laravel.min.svg">
 </p>
 
 ## Introduction
@@ -120,10 +120,10 @@ class HomeController extends Controller
 
 ## Version Guidance
 
-| Version | Status     | Packagist           | Namespace    | Repo                |
-|---------|------------|---------------------|--------------|---------------------|
-| 1.x     | EOL     | `shiftechafrica/laravel-multiple-guards` | `LaravelMultipleGuards` | [v1.1.9](https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/releases/tag/v1.1.9)|
-| 2.x     | Latest     | `shiftechafrica/laravel-multiple-guards` | `LaravelMultipleGuards` | [v2.0.0](https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/releases/tag/v2.0.0)|
+| Version | Status     | Packagist           | Namespace    | Repo                                                                                     |
+|---------|------------|---------------------|--------------|------------------------------------------------------------------------------------------|
+| 1.x     | EOL     | `shiftechafrica/laravel-multiple-guards` | `LaravelMultipleGuards` | [v1.1.9](https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/releases/tag/v1.1.9) |
+| 2.x     | Latest     | `shiftechafrica/laravel-multiple-guards` | `LaravelMultipleGuards` | [v2.0.1](https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards/releases/tag/v2.0.1) |
 
 [laravel-multiple-guards-repo]: https://github.com/SHIFTECH-AFRICA/laravel-multiple-guards.git
 
